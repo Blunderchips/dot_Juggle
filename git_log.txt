@@ -1,4 +1,18 @@
-commit 5c2acad2d22f54442c87cb8a3f5a71ef9f290872
+commit a1d81d5e9826df8f9e23c609f887a12ce31392ed
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 14:11:29 2018 +0200
+
+    Updated log
+
+commit 6d9333269ed42951d1cb1a980c24882d7e989811
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 14:10:55 2018 +0200
+
+    Delete Screenshot_20170118-214043 - Copy.png
+    
+    Removed duplicate image
+
+commit 94f07ba53afe74ea1e9179a82162d1d66ced0c81
 Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
 Date:   Sat Feb 3 14:08:20 2018 +0200
 
