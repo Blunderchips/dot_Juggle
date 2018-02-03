@@ -8,6 +8,7 @@ YouTube Videos:
 * https://www.youtube.com/watch?v=GXTep_tszy0
 
 Made using LibGDX (https://libgdx.badlogicgames.com/)
+
 All icons came from http://game-icons.net/
 
 ## https://play.google.com/store/apps/details?id=dot.empire.juggle
