@@ -3,6 +3,9 @@
 Can you .juggle? Tap the screen to jump around the universe and collect the magical coins!
 The objective of the game is to collect the little golden floating coins by repeatedly tapping the screen to jump. When ever you jump the players X velocity in inverted.
 
+YouTube Videos:
+* https://www.youtube.com/watch?v=AxEoHa61Vks
+* https://www.youtube.com/watch?v=GXTep_tszy0
 
 Made using LibGDX (https://libgdx.badlogicgames.com/)
 All icons came from http://game-icons.net/
