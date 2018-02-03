@@ -1,0 +1,120 @@
+commit 5c2acad2d22f54442c87cb8a3f5a71ef9f290872
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 14:08:20 2018 +0200
+
+    Created git log
+
+commit 8bff12479a43fa0176f92dee7b91e770c1c0a399
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 14:06:35 2018 +0200
+
+    Add files via upload
+    
+    Uploaded rating certificate
+
+commit 078d866ba6542876880466fa6b5011c4591b6ba3
+Merge: 6ebd945 949315f
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 14:01:20 2018 +0200
+
+    Merge branch 'master' of https://github.com/Blunderchips/dot_Juggle
+
+commit 6ebd9458e6a32561c5bfccdada07e73774da9f9c
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 14:01:01 2018 +0200
+
+    Updated video readme
+
+commit 949315f2de9b0aaa2350d88012838696dc54f318
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 14:00:30 2018 +0200
+
+    Create readme.txt
+    
+    http://game-icons.net/skoll/originals/burning-skull.html
+
+commit e4ef6edae2b9f142c2c159b35dc5aae913cc4866
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 13:55:16 2018 +0200
+
+    Update README.md
+    
+    Fix spelling error.
+
+commit 3daa748bdbc8eadfe8e0309ec5f3dbbdca263519
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 13:52:53 2018 +0200
+
+    Update README.md
+    
+    Hotfix
+
+commit b66beac217c805b4657c9ebfe2b94fdea198513d
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 13:52:10 2018 +0200
+
+    Update README.md
+    
+    Added links to the 2 YouTube Videos to the main readme.
+
+commit 50474e26dc314d1b689eaf3892c474948129bdd5
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 13:51:10 2018 +0200
+
+    Create readme.txt
+    
+    Added links to the 2 YouTube videos
+    
+    https://www.youtube.com/watch?v=AxEoHa61Vks
+    https://www.youtube.com/watch?v=GXTep_tszy0
+
+commit 64a6e23861585ba1f10f111bffb6644f860319fe
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 13:49:18 2018 +0200
+
+    Update README.md
+    
+    Added Play Store info to readme
+
+commit 040fdd76c2c68005dc8b2c851472fe22c905adde
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 13:47:46 2018 +0200
+
+    Add files via upload
+    
+    Added 2 more screenshots.
+
+commit 318aca6763dc663a79ac0e0a9b58fab78e5e6df8
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 11:22:14 2018 +0200
+
+    Added other files
+
+commit b655af43e85c2cb104b087ee8fbeb96fe7e38dab
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 11:08:53 2018 +0200
+
+    Added LibGdx project
+
+commit b949ba67983e79ab72cec76a4a270b6cd0b55b26
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 11:04:40 2018 +0200
+
+    Update README.md
+    
+    Added link to Play Store page
+    https://play.google.com/store/apps/details?id=dot.empire.juggle
+
+commit dc7843808f729950e4bd77149934ea3138f400f0
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 11:02:02 2018 +0200
+
+    Update README.md
+    
+    Initial Update
+
+commit cdd584b774975574ac84b2335d34187f9ec075ab
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sat Feb 3 11:01:09 2018 +0200
+
+    Initial commit
